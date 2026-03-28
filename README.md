@@ -2,7 +2,7 @@
 
 Vantagens (Por que usar?)
 
-* **Facilidade de uso**
+* **Facilidade de uso**:
   O Windows possui uma interface intuitiva e amigável, permitindo que usuários iniciantes consigam utilizá-lo sem grandes dificuldades.
 
 * **Amplo suporte de hardware**
