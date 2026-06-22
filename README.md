@@ -5,9 +5,9 @@ Olá! Sou João Pedro Pimentel de Freitas, um estudante de Engenharia de Softwar
 Utilizo este espaço no GitHub para documentar meus estudos e projetos práticos. Gosto de aprofundar meu conhecimento estruturando documentações técnicas, desde a evolução histórica das redes de computadores até a arquitetura de hardware e desenvolvimento web.
 
 Sobre a Disciplina
-Este repositório armazena anotações, resumos e projetos desenvolvidos durante a disciplina de Introdução à Computação. A matéria faz parte da grade do curso de Engenharia de Software e é ministrada pela professora Kadidja Valeria Reginaldo de Oliveira.
+Este repositório armazena anotações, resumos e projetos desenvolvidos durante a disciplina de Introdução à Computação. A matéria faz parte da grade do curso de Engenharia de Software e é ministrada pela professora Kadidja.
 
-O conteúdo programático da disciplina cobre desde a evolução histórica da computação até a arquitetura de hardware (como ULA, memória e registradores), sistemas de informação, redes e noções de segurança cibernética.
+O conteúdo programático da disciplina cobre desde a evolução histórica da computação até a arquitetura de hardware, sistemas de informação, redes e noções de segurança cibernética.
 
 Objetivo Geral
 Os objetivos centrais da disciplina são:
