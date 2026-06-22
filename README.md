@@ -1,30 +1,24 @@
-# Atividade-6-Introducao-da-Computacao
+# Introducao-Computacao
 
-Vantagens (Por que usar?)
+Olá! Sou João Pedro Pimentel de Freitas, um estudante de Engenharia de Software em UniCeub. Tenho um grande interesse por ecossistemas de código aberto e pelo impacto social e sustentável da tecnologia.
 
-* **Código aberto**:
-  Diferente do que o template sugere como vantagem, o Windows **não é código aberto**. Ele é um sistema **proprietário**, ou seja, seu código não é acessível ao público.
+Utilizo este espaço no GitHub para documentar meus estudos e projetos práticos. Gosto de aprofundar meu conhecimento estruturando documentações técnicas, desde a evolução histórica das redes de computadores até a arquitetura de hardware e desenvolvimento web.
 
-* **Segurança nativa**:
-  Conta com ferramentas integradas, como o Windows Defender, que ajudam a proteger contra vírus e ameaças.
-  
-* **Facilidade de uso**:
-  O Windows possui uma interface intuitiva e amigável, permitindo que usuários iniciantes consigam utilizá-lo sem grandes dificuldades.
+Sobre a Disciplina
+Este repositório armazena anotações, resumos e projetos desenvolvidos durante a disciplina de Introdução à Computação. A matéria faz parte da grade do curso de Engenharia de Software e é ministrada pela professora Kadidja Valeria Reginaldo de Oliveira.
 
-* **Amplo suporte de hardware**:
-  Compatível com uma enorme variedade de dispositivos e componentes, desde computadores simples até máquinas mais avançadas.
+O conteúdo programático da disciplina cobre desde a evolução histórica da computação até a arquitetura de hardware (como ULA, memória e registradores), sistemas de informação, redes e noções de segurança cibernética.
 
+Objetivo Geral
+Os objetivos centrais da disciplina são:
 
-Limitações (Qual o custo?)
+Compreender os fatos essenciais, conceitos e teorias relacionadas à Ciência da Computação.
+Especificar, projetar, manter e avaliar sistemas de computação.
+Reconhecer a importância do pensamento computacional e suas aplicações.
+Objetivos Específicos
+Ao final da disciplina, espera-se o desenvolvimento das seguintes capacidades:
 
-* **Fragmentação**:
-  Existem várias versões do Windows em uso (como 10 e 11), o que pode gerar inconsistências em suporte e atualizações.
-
-* **Custo de licença**:
-  Em geral, é necessário pagar para utilizar o sistema de forma oficial, ao contrário de alternativas gratuitas como Linux.
-
-* **Ecossistema fechado (lock-in)**:
-  O usuário pode acabar dependente dos serviços e produtos da Microsoft, dificultando a migração para outras plataformas.
-
-* **Curva de aprendizado (avançado)**:
-  Apesar de ser fácil para iniciantes, recursos mais avançados podem exigir tempo e prática para serem dominados.
+Compreender a velocidade do processo de evolução tecnológica na área da computação.
+Analisar, criticar e resolver problemas relacionados ao planejamento do emprego seguro dos recursos de TI.
+Trabalhar em equipe para planejar e projetar soluções de problemas cotidianos.
+Atuar com visão crítica em questões práticas relacionadas à utilização da tecnologia da informação e comunicação.
