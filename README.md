@@ -1,24 +1,49 @@
-# Introducao-Computacao
+# Introdução à Computação
 
-Olá! Sou João Pedro Pimentel de Freitas, um estudante de Engenharia de Software em UniCeub. Tenho um grande interesse por ecossistemas de código aberto e pelo impacto social e sustentável da tecnologia.
+## Olá, seja bem-vindo!
 
-Utilizo este espaço no GitHub para documentar meus estudos e projetos práticos. Gosto de aprofundar meu conhecimento estruturando documentações técnicas, desde a evolução histórica das redes de computadores até a arquitetura de hardware e desenvolvimento web.
+Meu nome é **João Pedro Pimentel de Freitas** e sou estudante de **Engenharia de Software** no **UniCEUB**. Tenho interesse em desenvolvimento de software, tecnologias de código aberto, inovação e no impacto da tecnologia na sociedade.
 
-Sobre a Disciplina
-Este repositório armazena anotações, resumos e projetos desenvolvidos durante a disciplina de Introdução à Computação. A matéria faz parte da grade do curso de Engenharia de Software e é ministrada pela professora Kadidja.
+Este repositório foi criado para registrar minha trajetória de aprendizado na disciplina de **Introdução à Computação**, reunindo anotações, resumos, atividades e projetos desenvolvidos ao longo do semestre. O objetivo é organizar o conteúdo estudado e demonstrar minha evolução acadêmica e prática na área da computação.
 
-O conteúdo programático da disciplina cobre desde a evolução histórica da computação até a arquitetura de hardware, sistemas de informação, redes e noções de segurança cibernética.
+## Sobre a Disciplina
 
-Objetivo Geral
-Os objetivos centrais da disciplina são:
+A disciplina de **Introdução à Computação**, ministrada pela professora **Kadidja**, apresenta os principais conceitos da Ciência da Computação e serve como base para a formação em Engenharia de Software.
 
-Compreender os fatos essenciais, conceitos e teorias relacionadas à Ciência da Computação.
-Especificar, projetar, manter e avaliar sistemas de computação.
-Reconhecer a importância do pensamento computacional e suas aplicações.
-Objetivos Específicos
-Ao final da disciplina, espera-se o desenvolvimento das seguintes capacidades:
+Durante o semestre são abordados temas fundamentais, como:
 
-Compreender a velocidade do processo de evolução tecnológica na área da computação.
-Analisar, criticar e resolver problemas relacionados ao planejamento do emprego seguro dos recursos de TI.
-Trabalhar em equipe para planejar e projetar soluções de problemas cotidianos.
-Atuar com visão crítica em questões práticas relacionadas à utilização da tecnologia da informação e comunicação.
+* História e evolução da computação;
+* Arquitetura de computadores;
+* Hardware e software;
+* Sistemas operacionais;
+* Redes de computadores e Internet;
+* Segurança da informação;
+* Sistemas de informação;
+* Pensamento computacional e resolução de problemas.
+
+## Objetivo Geral
+
+A disciplina tem como objetivo proporcionar uma visão ampla dos fundamentos da computação, desenvolvendo conhecimentos essenciais para a análise, projeto e utilização de sistemas computacionais.
+
+## Objetivos Específicos
+
+Ao concluir a disciplina, espera-se que o estudante seja capaz de:
+
+* Compreender a evolução da computação e das tecnologias da informação;
+* Identificar os principais componentes de um sistema computacional;
+* Aplicar conceitos básicos de hardware, software, redes e segurança da informação;
+* Desenvolver o pensamento computacional para solucionar problemas de forma lógica e eficiente;
+* Trabalhar de forma colaborativa no planejamento e desenvolvimento de soluções tecnológicas;
+* Reconhecer a importância da tecnologia como ferramenta de inovação e transformação social.
+
+## Sobre este Repositório
+
+Este repositório reúne todos os materiais produzidos durante a disciplina, incluindo:
+
+* Resumos das aulas;
+* Pesquisas e atividades propostas;
+* Projetos práticos;
+* Documentações técnicas;
+* Exercícios e trabalhos acadêmicos.
+
+O conteúdo será atualizado continuamente conforme o avanço da disciplina, servindo como registro do meu aprendizado e como material de consulta para estudos futuros.
